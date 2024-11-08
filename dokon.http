@@ -1,0 +1,6 @@
+@dokon_HostAddress = http://localhost:5064
+
+GET {{dokon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
